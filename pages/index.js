@@ -22,7 +22,7 @@ const pricingTiers = [
     price: "$29",
     billing: "per month",
     features: ["Weekly prompt drops across industries", "Team workspace with shared collections", "Priority support and onboarding calls"],
-    priceId: "price_1SNedoJvD9q4TyP4JmRxd4or",
+    priceId: "price_1SNef4JvD9q4TyP4IoYnxXg5",
     mode: "subscription",
     highlight: true,
   },
