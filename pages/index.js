@@ -13,7 +13,7 @@ const pricingTiers = [
     price: "$49",
     billing: "one-time",
     features: ["20 expertly crafted prompts", "Prompt anatomy cheat sheet", "Lifetime access to updates"],
-    priceId: "price_promptstarter_placeholder",
+    priceId: "prod_TKJGB3YmvVdG3J",
     mode: "payment",
   },
   {
@@ -22,7 +22,7 @@ const pricingTiers = [
     price: "$29",
     billing: "per month",
     features: ["Weekly prompt drops across industries", "Team workspace with shared collections", "Priority support and onboarding calls"],
-    priceId: "price_promptmembership_placeholder",
+    priceId: "prod_TKJHRbOUaRjuX7",
     mode: "subscription",
     highlight: true,
   },
