@@ -11,7 +11,7 @@ export default function SuccessPage() {
             🎉 Payment complete
           </span>
           <h1 className="mt-8 text-3xl font-semibold text-slate-900 sm:text-4xl">
-            You are officially in the PromptShop crew
+            You are officially in the Arketype crew
           </h1>
           <p className="mt-5 text-lg text-slate-600">
             Check your inbox for a confirmation email and access instructions. We cannot wait to see what you build next.

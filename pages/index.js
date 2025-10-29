@@ -9,7 +9,7 @@ const stripePromise = loadStripe(process.env.NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY 
 const pricingTiers = [
   {
     title: "Prompt Starter Pack",
-    description: "Launch-ready prompts for marketing, product, and support workflows. Perfect for trying PromptShop with one team.",
+    description: "Launch-ready prompts for marketing, product, and support workflows. Perfect for trying Arketype with one team.",
     price: "$49",
     billing: "one-time",
     features: ["20 expertly crafted prompts", "Prompt anatomy cheat sheet", "Lifetime access to updates"],
@@ -17,7 +17,7 @@ const pricingTiers = [
     mode: "payment",
   },
   {
-    title: "PromptShop Membership",
+    title: "Arketype Membership",
     description: "Unlimited access to new prompt drops, remix library, and team collaboration tools to scale AI adoption.",
     price: "$29",
     billing: "per month",

@@ -18,7 +18,7 @@ export default function Hero() {
               Build Smarter with AI-Optimized Prompts
             </h1>
             <p className="text-lg text-slate-600 sm:text-xl">
-              PromptShop curates high-performing prompt templates so your team can launch campaigns, automate workflows, and craft brilliant content in minutes.
+              Arketype curates high-performing prompt templates so your team can launch campaigns, automate workflows, and craft brilliant content in minutes.
             </p>
           </div>
           <div className="flex flex-wrap items-center justify-center gap-4 md:justify-start">
@@ -38,7 +38,7 @@ export default function Hero() {
           <div className="flex flex-wrap items-center justify-center gap-6 text-sm text-slate-500 md:justify-start">
             <div className="rounded-xl border border-slate-200 bg-white/70 px-5 py-3 shadow-sm backdrop-blur">
               <span className="block text-lg font-semibold text-slate-900">150+</span>
-              Teams shipping with PromptShop
+              Teams shipping with Arketype
             </div>
             <div className="rounded-xl border border-slate-200 bg-white/70 px-5 py-3 shadow-sm backdrop-blur">
               <span className="block text-lg font-semibold text-slate-900">4.9/5</span>

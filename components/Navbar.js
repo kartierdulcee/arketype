@@ -15,10 +15,10 @@ export default function Navbar() {
       <nav className="mx-auto flex max-w-6xl items-center justify-between px-6 py-4 md:px-10">
         <Link href="/" className="flex items-center space-x-2">
           <span className="inline-flex h-10 w-10 items-center justify-center rounded-lg bg-brand/10 text-brand font-semibold">
-            PS
+            AK
           </span>
           <span className="hidden text-lg font-semibold tracking-tight text-slate-900 sm:block">
-            PromptShop
+            Arketype
           </span>
         </Link>
         <div className="hidden items-center gap-8 text-sm font-medium text-slate-600 md:flex">
